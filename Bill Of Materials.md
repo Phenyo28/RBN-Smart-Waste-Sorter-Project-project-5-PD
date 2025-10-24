@@ -12,3 +12,4 @@
 | USB Cable                 | Provides power to the ESP32 and components during operation or testing.         | 1        |
 | Ultrasonic Sensor (HC-SR04) | Detects the presence and distance of an object (waste item) to trigger the camera and sorting mechanism. | 1        |
 | Buzzer                    | Provides an audio alert when an object is detected or sorting is complete.       | 1        |
+ 
