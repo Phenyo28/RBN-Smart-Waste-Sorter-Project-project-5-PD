@@ -8,6 +8,11 @@
 <img width="929" height="523" alt="image" src="https://github.com/user-attachments/assets/01d8b099-c8c0-4ec8-b777-40e5e848f846" />
 
 --- 
+### 3D printed Hinges
+<img width="948" height="488" alt="image" src="https://github.com/user-attachments/assets/db68918f-0bd1-4bf7-9c59-028d2274f7dc" />
+
+---
+
 ### The Final Assembly
 <img width="929" height="523" alt="image" src="https://github.com/user-attachments/assets/3876f874-95fd-4c90-be7b-ee8f2f7d3418" />
 
@@ -41,5 +46,4 @@
 <img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/fd61801b-87e8-484a-8912-dde28900f2ed" />
 <img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/f094479d-5c07-41f4-8bbf-b420566f12ca" />
 
-### 3D printed Hinges
-<img width="948" height="488" alt="image" src="https://github.com/user-attachments/assets/db68918f-0bd1-4bf7-9c59-028d2274f7dc" />
+
