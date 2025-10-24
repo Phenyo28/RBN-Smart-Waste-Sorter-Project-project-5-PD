@@ -39,6 +39,16 @@
 
 ---
 
+# Edge Impulse
+### Image collection
+<img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/3f2a0331-f22a-43bc-a81e-54ca547f459d" />
+
+### Data Acquisition
+
+<img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/d53cec9c-a60c-43a3-9faf-602a7708ee95" />
+
+---
+
 ## Model Training and Testing on Edge Impulse
 ### First few tests and training
 <img width="1034" height="559" alt="image" src="https://github.com/user-attachments/assets/e399ecbc-fd0f-42b6-a3d7-544f76352085" />
