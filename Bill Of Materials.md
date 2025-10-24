@@ -1,4 +1,4 @@
-## 📦 Bill of Materials
+## Bill of Materials
 
 | Component Name            | Purpose in Project                                                                 | Quantity |
 |---------------------------|----------------------------------------------------------------------------------|----------|
