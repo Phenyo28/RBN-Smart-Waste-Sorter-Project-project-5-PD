@@ -26,3 +26,14 @@
 <img width="807" height="605" alt="image" src="https://github.com/user-attachments/assets/9bd91e8f-628b-402f-aca1-c33e1f1d0999" />
 
 ---
+
+## Model Training and Testing on Edge Impulse
+### First few tests and training
+<img width="1034" height="559" alt="image" src="https://github.com/user-attachments/assets/e399ecbc-fd0f-42b6-a3d7-544f76352085" />
+<img width="826" height="1035" alt="image" src="https://github.com/user-attachments/assets/91416faa-3cee-4e74-bd0e-217b1629b1eb" />
+
+### Final Model testing and Training
+<img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/fd61801b-87e8-484a-8912-dde28900f2ed" />
+<img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/f094479d-5c07-41f4-8bbf-b420566f12ca" />
+
+
