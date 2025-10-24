@@ -40,8 +40,9 @@
 ---
 
 # Edge Impulse
-### Image collection
-<img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/3f2a0331-f22a-43bc-a81e-54ca547f459d" />
+### Data train / test split ratio
+<img width="1034" height="386" alt="image" src="https://github.com/user-attachments/assets/02e6c128-fc76-4d89-8053-6adce2f8fe73" />
+
 
 ### Data Acquisition
 
