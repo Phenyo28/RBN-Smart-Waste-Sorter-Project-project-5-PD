@@ -53,6 +53,7 @@
 ## Model Training and Testing on Edge Impulse
 ### First few tests and training
 <img width="1034" height="559" alt="image" src="https://github.com/user-attachments/assets/e399ecbc-fd0f-42b6-a3d7-544f76352085" />
+### Model Training Performance
 <img width="826" height="1035" alt="image" src="https://github.com/user-attachments/assets/91416faa-3cee-4e74-bd0e-217b1629b1eb" />
 
 ### Final Model testing and Training
