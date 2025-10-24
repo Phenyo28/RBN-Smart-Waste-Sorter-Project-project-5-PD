@@ -19,6 +19,8 @@
 ---
 
 ## Circuit
+### TinkerCAD Simulation without the ESP32 CAM
+<img width="1034" height="458" alt="image" src="https://github.com/user-attachments/assets/a51ca52e-502a-41af-8c93-7bb0c553ff9f" />
 
 ---
 
