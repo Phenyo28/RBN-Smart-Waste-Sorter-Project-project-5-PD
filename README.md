@@ -26,7 +26,7 @@ The system operates by sensing the distance of an approaching object using the u
 ## Perfomance Flow of the project
 
 **1. Power On**
-- System powered by Li-ion batteries or USB.
+- System powered by Li-ion batteries and switch.
 - ESP32 initializes all components and LEDs flash to indicate readiness.
 
 **2. Object Detection**
