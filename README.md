@@ -33,7 +33,7 @@ The system operates by sensing the distance of an approaching object using the u
 - ESP32-CAM captures an image of the waste item placed in front of the camera.
 
 **3. Image Classification**
-- AI model (Edge Impulse) identifies the waste type — plastic, paper, or electronic.
+- AI model (Edge Impulse) identifies the waste type; plastic, paper, or electronic.
 
 **4. LED Indication**
 - Green LED: Plastic
