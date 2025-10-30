@@ -11,17 +11,22 @@
 ### Training performance
 <img width="706" height="835" alt="image" src="https://github.com/user-attachments/assets/34ea88fd-e173-4d3b-817b-b3360494983f" />
 
+---
 ## Day 2 of model training
 <img width="743" height="928" alt="image" src="https://github.com/user-attachments/assets/31068a5d-566c-4e41-a415-b59a7ea0cb41" />
 
+---
 ## Day 3 model training and testing
 <img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/91d22f6f-1dd9-415c-b891-e588ea5e12ad" />
 
 ## Model Testing Output
 <img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/fde2bebc-a8ca-4967-a0e3-40f572923df6" />
 
-## Arduino Library from Eedge Impulse
+---
+## Arduino Library from Edge Impulse
 <img width="1034" height="506" alt="image" src="https://github.com/user-attachments/assets/392612f3-c8a4-4ac9-b0bd-fe974fd656fa" />
 
 ### The code
 <img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/671f66bb-3b85-4ce9-9270-3a0e96df8eaf" />
+
+---
