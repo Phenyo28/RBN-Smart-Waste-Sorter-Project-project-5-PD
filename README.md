@@ -33,7 +33,7 @@ The system operates by sensing the distance of an approaching object using the u
 - ESP32-CAM captures an image of the waste item placed in front of the camera.
 
 **3. Image Classification**
-AI model (Edge Impulse) identifies the waste type — plastic, paper, or electronic.
+- AI model (Edge Impulse) identifies the waste type — plastic, paper, or electronic.
 
 **4. LED Indication**
 - Green LED: Plastic
@@ -41,11 +41,13 @@ AI model (Edge Impulse) identifies the waste type — plastic, paper, or electro
 - Red LED: Electronic
 
 **5. Sorting Action**
-ESP32 activates the corresponding servo motor to open the correct bin door.
-Item drops in; servo closes after a short delay.
-Feedback
-OLED display shows sorting message.
-Buzzer beeps to confirm successful sorting.
-Reset
-LEDs turn off and servos return to the closed position.
-System waits for the next item.
+- ESP32 activates the corresponding servo motor to open the correct bin door.
+- Item drops in; servo closes after a short delay.
+
+**6. Feedback**
+- OLED display shows sorting message.
+- Buzzer beeps to confirm successful sorting.
+
+**7. Reset**
+- LEDs turn off and servos return to the closed position.
+- System waits for the next item.
