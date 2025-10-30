@@ -1,4 +1,4 @@
-# 3D design
+# 3D designs, Laser Cutting
 
 ### First design
 <img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/e9f6bcf1-d10c-48e9-bc7b-88f340906797" />
