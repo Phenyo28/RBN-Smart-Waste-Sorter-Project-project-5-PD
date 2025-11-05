@@ -26,28 +26,31 @@ The system operates by sensing the distance of an approaching object using the u
 ## Perfomance Flow of the project
 
 **1. Power On**
-- System powered by Li-ion batteries and switch.
-- ESP32 initializes all components and LEDs flash to indicate readiness.
+- The ESP32-CAM and ESP32 controller initialize.
+- All LEDs and servo motors are set to their default (off/closed) state.
 
-**2. Object Detection**
-- ESP32-CAM captures an image of the waste item placed in front of the camera.
+**2. Image Capture**
+- When an item is placed near the bin’s opening, the ESP32-CAM captures an image of the waste.
 
-**3. Image Classification**
-- AI model (Edge Impulse) identifies the waste type; plastic, paper, or electronic.
+**3. Waste Detection**
+- The captured image is processed by the trained Edge Impulse AI model.
+- The model identifies the type of waste (e.g. plastic, paper, or metal).
 
-**4. LED Indication**
-- Green LED: Plastic
-- Yellow LED: Paper
-- Red LED: Electronic
+**4. Signal Transmission**
+- The ESP32-CAM sends a signal to the main ESP32 board indicating which waste type was detected.
 
-**5. Sorting Action**
-- ESP32 activates the corresponding servo motor to open the correct bin door.
-- Item drops in; servo closes after a short delay.
+**5. LED Indication**
+- The corresponding LED (red, blue, or yellow) turns on to show which bin category is being accessed.
 
-**6. Feedback**
-- OLED display shows sorting message.
-- Buzzer beeps to confirm successful sorting.
+**6. Servo Door Activation**
+- The servo motor linked to that specific category’s door rotates to open the bin.
+- A short delay allows the user to drop the waste in.
 
-**7. Reset**
-- LEDs turn off and servos return to the closed position.
-- System waits for the next item.
+**7. Door Closure**
+- After the delay, the servo motor returns to its original position, closing the bin door automatically.
+
+**8. System Reset**
+- The LED turns off and the system resets, ready for the next item.
+
+**9. Continuous Operation**
+- The process repeats for every new waste item detected by the ESP32-CAM.
