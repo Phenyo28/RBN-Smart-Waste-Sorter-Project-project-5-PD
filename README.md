@@ -9,7 +9,7 @@ This prototype combines automation, artificial intelligence, and hardware integr
 Key Features:
 - AI-powered image classification using the ESP32-CAM and Edge Impulse.
 - Automatic lid opening and closing via servo motors.
-- LED and OLED indicators for real-time user feedback.
+- LED and OLED as indicators for real-time user feedback.
 - Compact, modular design built for demonstration and further development.
 
 ---
