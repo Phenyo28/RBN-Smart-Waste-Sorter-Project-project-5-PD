@@ -121,7 +121,8 @@ This workflow eliminates the need for serial wiring between microcontrollers, im
 **1. Power On**
 - The ESP32-CAM and ESP32 controller initialize.
 - All LEDs and servo motors are set to their default (off/closed) state.
-
+- •	Switch on using a Rocker Switch
+  
 **2. Image Capture**
 - When an item is placed near the bin’s opening, the ESP32-CAM captures an image of the waste.
 
