@@ -6,3 +6,9 @@
 
 ## Schematic
 <img width="1306" height="647" alt="Screenshot 2025-11-04 164146" src="https://github.com/user-attachments/assets/a4c9cdbc-f5e0-4c27-9aa1-b8de9070f394" />
+
+## Circuit
+<img width="951" height="549" alt="image" src="https://github.com/user-attachments/assets/e8eab10b-c7d9-4c2e-8e88-c19a26760843" />
+
+## Prototype Image
+<img width="1034" height="775" alt="image" src="https://github.com/user-attachments/assets/a4d34755-2dda-4793-8c35-f65575a6df1d" />
