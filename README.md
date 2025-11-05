@@ -34,7 +34,7 @@ The system operates by sensing the distance of an approaching object using the u
 
 **3. Waste Detection**
 - The captured image is processed by the trained Edge Impulse AI model.
-- The model identifies the type of waste (e.g. plastic, paper, or metal).
+- The model identifies the type of waste (plastic, paper, or electronic).
 
 **4. Signal Transmission**
 - The ESP32-CAM sends a signal to the main ESP32 board indicating which waste type was detected.
