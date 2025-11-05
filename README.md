@@ -42,7 +42,7 @@ Key Features:
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
 
 ## Software Workflow
-The Smart Waste Bin operates through seamless communication between two ESP32 boards — the ESP32-CAM and the ESP32 Dev Board — using the ESP-NOW wireless protocol for efficient data exchange.
+The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
 
 ### System Interaction Overview
 - ESP32-CAM captures images of waste items and performs AI inference using a trained Edge Impulse model to identify the waste type.
