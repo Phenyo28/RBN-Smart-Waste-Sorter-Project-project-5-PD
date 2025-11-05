@@ -25,7 +25,6 @@ Key Features:
 | `AI/`         | Edge Impulse models or training datasets used for waste classification with the ESP32-CAM. |
 
 ---
-
 ## Bill Of Materials
 | Component Name                                | Purpose in Project                                                                                                      | Quantity |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -42,8 +41,8 @@ Key Features:
 | **Li-ion Batteries**                           | Provide portable power to the system.                                                                                   | 4        |
 | **5V DC-DC Step-Down Regulator (Buck Converter)** | Powers the ESP32 and sensors from the battery pack.                                                                     | 1        |
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
----
 
+---
 ## AI Model
 The Smart Waste Bin uses an Edge Impulse image classification model to identify the type of waste item detected by the ESP32-CAM.
 | **Parameter**              | **Description**                                        |
@@ -77,7 +76,6 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 )
 
 ---
-
 ## Software Workflow
 The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
 
@@ -92,7 +90,6 @@ The Smart Waste Bin operates through seamless communication between two ESP32 bo
 This workflow eliminates the need for serial wiring between microcontrollers, improving flexibility and scalability while maintaining fast, low-latency communication between devices.
 
 ---
-
 ## Perfomance Flow of the project
 
 **1. Power On**
