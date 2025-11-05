@@ -29,6 +29,9 @@
 ## Model Testing Output
 <img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/fde2bebc-a8ca-4967-a0e3-40f572923df6" />
 
+## Metrics for Object detection
+<img width="742" height="841" alt="image" src="https://github.com/user-attachments/assets/01c8d6b2-2a22-46fb-83a6-11a2d27529fc" />
+
 ---
 ## Arduino Library from Edge Impulse
 <img width="1034" height="506" alt="image" src="https://github.com/user-attachments/assets/392612f3-c8a4-4ac9-b0bd-fe974fd656fa" />
