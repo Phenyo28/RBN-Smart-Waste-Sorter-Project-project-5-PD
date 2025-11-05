@@ -25,6 +25,7 @@
 ---
 
 ## Schematic
+<img width="1034" height="512" alt="image" src="https://github.com/user-attachments/assets/64685b40-73f2-4f0f-976f-4a86c241bbbd" />
 
 --- 
 
