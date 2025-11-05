@@ -10,5 +10,3 @@
 ## Circuit
 <img width="951" height="549" alt="image" src="https://github.com/user-attachments/assets/e8eab10b-c7d9-4c2e-8e88-c19a26760843" />
 
-## Prototype Image
-<img width="1034" height="775" alt="image" src="https://github.com/user-attachments/assets/a4d34755-2dda-4793-8c35-f65575a6df1d" />
