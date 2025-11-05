@@ -69,6 +69,12 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 - Data Augmentation: Enabled
 - Model Version: Quantized (int8)
 
+![Edge Impulse Training Results](<img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/a58d07e2-a20c-44f9-91fc-a9afff88528c" />
+)
+![Edge Impulse Testing Results](<img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/67eabc09-3c3a-49ca-92c4-a6b802ccfd78" />
+)
+
+
 ## Software Workflow
 The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
 
