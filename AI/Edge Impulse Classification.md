@@ -1,9 +1,16 @@
 ## Day 1 of model training
-### Data Acquisition
+### Dataset
 <img width="1034" height="525" alt="image" src="https://github.com/user-attachments/assets/19dcb27a-af54-4621-847d-d86fb6e0ecd8" />
 
 ### Dataset train/ test split ratio
 <img width="1033" height="532" alt="image" src="https://github.com/user-attachments/assets/93403ffb-6d3a-4289-bf6f-0d9923995739" />
+
+
+#### Raw data
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47b937dc-79a5-4591-907f-8b6fa92d80f6" />
+
+#### Image data
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/272fca0c-a128-4450-b82d-a6a00b5accca" />
 
 ### Image Feature Explorer
 <img width="1034" height="523" alt="image" src="https://github.com/user-attachments/assets/5e2db693-f2b1-47c9-9e0a-aa239aa9669b" />
