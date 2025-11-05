@@ -131,3 +131,10 @@ This workflow eliminates the need for serial wiring between microcontrollers, im
 **9. Continuous Operation**
 - The process repeats for every new waste item detected by the ESP32-CAM.
 
+## Prototype Images & Videos
+
+### CAD
+<img width="1034" height="503" alt="image" src="https://github.com/user-attachments/assets/17804e82-f186-4403-b5bf-d332d5141f75" />
+
+### Circuit 
+<img width="915" height="545" alt="image" src="https://github.com/user-attachments/assets/8f6b35fc-faaa-41cc-a3e6-5f7314a48d26" />
