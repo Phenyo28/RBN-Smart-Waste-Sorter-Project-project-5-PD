@@ -73,6 +73,8 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 ![Edge Impulse Training Results](images/edgeimpulse_training.png)
 ![Edge Impulse Testing Results](images/edgeimpulse_testing.png)
 
+![Model Training Results](<img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/0f3e84f6-2854-47a6-9a10-b6ff455999a6" />
+)
 
 ---
 ## Software Workflow
