@@ -139,5 +139,5 @@ This workflow eliminates the need for serial wiring between microcontrollers, im
 ### Circuit 
 <img width="915" height="545" alt="image" src="https://github.com/user-attachments/assets/8f6b35fc-faaa-41cc-a3e6-5f7314a48d26" />
 
-
+### Prorotype
 <img width="1034" height="775" alt="image" src="https://github.com/user-attachments/assets/d8011859-db43-46ae-b492-6a9316b9548e" />
