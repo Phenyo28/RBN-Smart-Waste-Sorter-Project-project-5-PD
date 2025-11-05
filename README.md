@@ -41,6 +41,18 @@ Key Features:
 | **5V DC-DC Step-Down Regulator (Buck Converter)** | Powers the ESP32 and sensors from the battery pack.                                                                     | 1        |
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
 
+## Software Workflow
+The Smart Waste Bin operates through seamless communication between two ESP32 boards — the ESP32-CAM and the ESP32 Dev Board — using the ESP-NOW wireless protocol for efficient data exchange.
+
+### System Interaction Overview
+- ESP32-CAM captures images of waste items and performs AI inference using a trained Edge Impulse model to identify the waste type.
+- The classification result (e.g., plastic, paper, or electronic) is transmitted wirelessly to the ESP32 Dev Board using the ESP-NOW protocol.
+- The ESP32 Dev Board receives this data and triggers the appropriate actions:
+-- LEDs light up to indicate the detected waste category.
+Servo motors open the corresponding bin lid automatically.
+Both boards are powered through a shared regulated 5V DC power supply, enabling fully synchronized, cable-free communication.
+This workflow eliminates the need for serial wiring between microcontrollers, improving flexibility and scalability while maintaining fast, low-latency communication between devices.
+
 ## Perfomance Flow of the project
 
 **1. Power On**
