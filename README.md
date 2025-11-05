@@ -24,6 +24,8 @@ Key Features:
 | `README.md/`       | README, bill of materials, system overview, and test reports. |
 | `AI/`         | Edge Impulse models or training datasets used for waste classification with the ESP32-CAM. |
 
+---
+
 ## Bill Of Materials
 | Component Name                                | Purpose in Project                                                                                                      | Quantity |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -40,7 +42,7 @@ Key Features:
 | **Li-ion Batteries**                           | Provide portable power to the system.                                                                                   | 4        |
 | **5V DC-DC Step-Down Regulator (Buck Converter)** | Powers the ESP32 and sensors from the battery pack.                                                                     | 1        |
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
-
+---
 
 ## AI Model
 The Smart Waste Bin uses an Edge Impulse image classification model to identify the type of waste item detected by the ESP32-CAM.
@@ -74,6 +76,7 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 ![Edge Impulse Testing Results](<img width="1034" height="479" alt="image" src="https://github.com/user-attachments/assets/67eabc09-3c3a-49ca-92c4-a6b802ccfd78" />
 )
 
+---
 
 ## Software Workflow
 The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
@@ -87,6 +90,8 @@ The Smart Waste Bin operates through seamless communication between two ESP32 bo
 - Both boards are powered through a shared regulated 5V DC power supply, enabling fully synchronized, cable-free communication.
 
 This workflow eliminates the need for serial wiring between microcontrollers, improving flexibility and scalability while maintaining fast, low-latency communication between devices.
+
+---
 
 ## Perfomance Flow of the project
 
