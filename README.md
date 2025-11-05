@@ -41,6 +41,34 @@ Key Features:
 | **5V DC-DC Step-Down Regulator (Buck Converter)** | Powers the ESP32 and sensors from the battery pack.                                                                     | 1        |
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
 
+
+## AI Model
+The Smart Waste Bin uses an Edge Impulse image classification model to identify the type of waste item detected by the ESP32-CAM.
+| **Parameter**              | **Description**                                        |
+| -------------------------- | ------------------------------------------------------ |
+| **Model Type**             | Image Classification                                   |
+| **Input Data**             | 46×46 color images captured by the ESP32-CAM           |
+| **Output Labels**          | Plastic, Paper, Electronic                             |
+| **Framework**              | Edge Impulse (trained and deployed using EON Compiler) |
+| **Target Device**          | ESP32-CAM                                              |
+| **Communication Protocol** | ESP-NOW (for transmitting results to ESP32 Dev Board)  |
+
+### Model Performance Summary
+| **Metric**                     | **Value** |
+| ------------------------------ | --------- |
+| **Validation Accuracy**        | 71.4%     |
+| **Test Accuracy**              | 65.63%    |
+| **Precision (non-background)** | 0.74      |
+| **Recall (non-background)**    | 0.97      |
+| **F1 Score (non-background)**  | 0.84      |
+
+### Training Settings
+- Training Cycles: 100
+- Learning Rate: 0.005
+- Training Processor: CPU
+- Data Augmentation: Enabled
+- Model Version: Quantized (int8)
+
 ## Software Workflow
 The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
 
