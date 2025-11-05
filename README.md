@@ -46,7 +46,7 @@ The circuit connects the ESP32 to three servo motors, three LEDs (with resistors
 
 - OLED - SDA,22 ; SCL, 21; GND, 3.3V
 - Servo 1, 2, 3 - GPIO 12, 13, 14
-- LEDs (R, G, B) - GPIO 25, 26, 27
+- LEDs (Red, Green, Blue) - GPIO 25, 26, 27
 - ESP32-CAM - GND, 5V
 
 ---
