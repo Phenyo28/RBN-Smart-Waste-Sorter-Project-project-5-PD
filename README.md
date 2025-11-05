@@ -41,6 +41,13 @@ Key Features:
 | **Li-ion Batteries**                           | Provide portable power to the system.                                                                                   | 4        |
 | **5V DC-DC Step-Down Regulator (Buck Converter)** | Powers the ESP32 and sensors from the battery pack.                                                                     | 1        |
 | **On/Off Rocker Switch**                       | Acts as a power switch for the entire system.                                                                           | 1        |
+## Circuit Diagram Overview
+The circuit connects the ESP32 to three servo motors, three LEDs (with resistors), and the ESP32-CAM. Power is supplied through a 5V DC-DC buck converter regulated from a Li-ion battery pack.
+
+- OLED - SDA,22 ; SCL, 21; GND, 3.3V
+- Servo 1, 2, 3 - GPIO 12, 13, 14
+- LEDs (R, G, B) - GPIO 25, 26, 27
+- ESP32-CAM - GND, 5V
 
 ---
 ## AI Model
