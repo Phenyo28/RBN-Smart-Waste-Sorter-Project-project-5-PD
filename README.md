@@ -20,7 +20,7 @@ The system operates by sensing the distance of an approaching object using the u
 | `hardware/`   | Circuit diagrams, breadboard layouts, and component schematics. |
 | `CAD/`        | Onshape design files, 3D models, and assembly drawings for the bin mechanism. |
 | `images/`     | Project photos, screenshots of the prototype, and wiring setup. |
-| `docs/`       | Documentation, including README, bill of materials, system overview, and test reports. |
+| `README.md/`       | README, bill of materials, system overview, and test reports. |
 | `AI/`         | Edge Impulse models or training datasets used for waste classification with the ESP32-CAM. |
 
 ## Bill Of Materials
