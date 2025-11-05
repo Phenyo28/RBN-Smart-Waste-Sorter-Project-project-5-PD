@@ -1,4 +1,4 @@
-# RBN-Smart-Waste-Bin-Project-project-5-PD
+# Smart-Waste-Bin-Project
 
 This project is a prototype of a Smart Waste Bin, an automated system designed to detect, classify, and manage waste efficiently using sensors, servo motors, and an ESP32 microcontroller. It demonstrates how embedded systems and AI can improve recycling, and promote sustainability.
 
