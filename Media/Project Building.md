@@ -29,10 +29,6 @@
 
 --- 
 
-## Performance Flow
-
----
-
 ## Component Testing
 <img width="810" height="603" alt="image" src="https://github.com/user-attachments/assets/ce3a02da-11e4-4511-bd7a-d28f9e19bd4e" />
 
