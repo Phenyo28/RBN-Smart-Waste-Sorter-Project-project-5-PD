@@ -98,12 +98,12 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 The Smart Waste Bin operates through seamless communication between two ESP32 boards: the ESP32-CAM and the ESP32 Dev Board, using the ESP-NOW wireless protocol for efficient data exchange.
 
 Libraries Used: 
-•	esp_now
-•	WiFi
-•	ESP32Servo
-•	Wire
-•	Adafruit_GFX
-•	Adafruit_SSD1306
+-	esp_now
+-	WiFi
+-	ESP32Servo
+-	Wire
+-	Adafruit_GFX
+-	Adafruit_SSD1306
 
 ### System Interaction Overview
 - ESP32-CAM captures images of waste items and performs AI inference using a trained Edge Impulse model to identify the waste type.
