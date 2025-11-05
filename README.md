@@ -77,6 +77,9 @@ The Smart Waste Bin uses an Edge Impulse image classification model to identify 
 - Data Augmentation: Enabled
 - Model Version: Quantized (int8)
 
+#### Raw data
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47b937dc-79a5-4591-907f-8b6fa92d80f6" />
+
 #### Image data
 <img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/272fca0c-a128-4450-b82d-a6a00b5accca" />
 
