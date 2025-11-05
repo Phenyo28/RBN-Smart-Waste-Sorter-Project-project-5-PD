@@ -54,3 +54,5 @@ The system operates by sensing the distance of an approaching object using the u
 
 **9. Continuous Operation**
 - The process repeats for every new waste item detected by the ESP32-CAM.
+
+## Bill Of Materials
