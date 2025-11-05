@@ -16,11 +16,15 @@
 ### The Final Assembly
 <img width="929" height="523" alt="image" src="https://github.com/user-attachments/assets/3876f874-95fd-4c90-be7b-ee8f2f7d3418" />
 
+<img width="1034" height="775" alt="image" src="https://github.com/user-attachments/assets/cc8612ea-d7c8-4847-aaad-01dc53b1d487" />
+
 ---
 
 ## Circuit
 ### TinkerCAD Simulation without the ESP32 CAM
 <img width="1034" height="458" alt="image" src="https://github.com/user-attachments/assets/a51ca52e-502a-41af-8c93-7bb0c553ff9f" />
+
+<img width="915" height="545" alt="image" src="https://github.com/user-attachments/assets/dfe15c31-e0a2-4e58-a9d0-5d022b843dfa" />
 
 ---
 
